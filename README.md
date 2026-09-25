@@ -89,3 +89,5 @@ Shopify-Sales-Customer-Funnel-PowerBI/
 │
 └── PowerBI/
     └── Shopify_Sales_Customer_Funnel.pbix
+##Author Name:
+Dnyaneshwari Shitole
