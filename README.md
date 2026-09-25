@@ -71,7 +71,9 @@ The dashboard provides information about:
 - Detailed order-level information
 ## 📷 Dashboard Preview
 ### Shopify Sales Analysis
+<img src="Shopify_Analysis.png">
 ### Shopify Details
+<img src="Shopify_Details.png">
 ## 📁 Project Structure
 ```text
 Shopify-Sales-Customer-Funnel-PowerBI/
@@ -87,5 +89,5 @@ Shopify-Sales-Customer-Funnel-PowerBI/
 │
 └── PowerBI/
     └── Shopify_Sales_Customer_Funnel.pbix
-##Author Name:
-Dnyaneshwari Shitole
+## 👩‍💻 Author
+**Dnyaneshwari Shitole**
