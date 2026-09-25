@@ -1,24 +1,47 @@
 # Shopify Sales & Customer Funnel Report | Power BI
 ## 📊 Project Overview
 This project is an interactive Shopify Sales and Customer Funnel Dashboard created using Microsoft Power BI.
-The dashboard analyzes sales performance, customer purchasing behavior, product performance, payment methods, and order details.
+The dashboard provides insights into sales performance, customer behavior, product performance, payment methods, sales trends, and order details.
 ## 🎯 Project Objectives
 - Analyze Shopify sales performance
 - Understand customer purchasing behavior
 - Track important sales KPIs
 - Analyze product performance
-- Analyze payment gateway usage
+- Understand payment gateway usage
 - Analyze sales trends over time
 - Explore sales by location
+- Provide detailed order-level information
 ## 🛠️ Tools & Technologies
 - Microsoft Power BI
 - Power Query
-- Microsoft Excel
-- CSV
+- Microsoft Excel / CSV
 - Data Cleaning
+- Data Transformation
 - Data Analysis
 - Data Visualization
 ## 📌 Dashboard Features
+### Sales Performance
+- Net Sales
+- Total Quantity
+- Average Order Value
+- Sales Trends
+- Product Type Analysis
+### Customer Analysis
+- Total Customers
+- Single Order Customers
+- Repeat Customers
+- Customer Lifetime Value
+- Repeat Rate
+- Purchase Frequency
+### Other Analysis
+- Payment Gateway Analysis
+- Geographic Sales Analysis
+- Quantity Trend Over Time
+- Product Type Performance
+- Order-Level Details
+## 📈 Dashboard Pages
+### 1. Shopify Sales Analysis
+The main dashboard provides an overview of:
 - Net Sales
 - Total Quantity
 - Average Order Value
@@ -27,43 +50,62 @@ The dashboard analyzes sales performance, customer purchasing behavior, product 
 - Customer Lifetime Value
 - Repeat Rate
 - Purchase Frequency
-- Product Type Analysis
-- Payment Gateway Analysis
-- Geographic Analysis
-- Order Details
+- Quantity trends
+- Geographic analysis
+- Payment gateway analysis
+- Product type analysis
+### 2. Shopify Details
+The details page provides order-level information including:
+- Order Number
+- First Name
+- Last Name
+- City
+- Province
+- ZIP Code
+- Product Type
+- Currency
+- Net Sales
+- Total Tax
+- Total Price
 ## 🔄 Project Workflow
-1. Collected Shopify sales data
-2. Cleaned and transformed the data
-3. Prepared the data for analysis
-4. Created KPIs and calculated measures
-5. Designed Power BI visualizations
-6. Added filters and interactive elements
+1. Collected the Shopify sales dataset
+2. Cleaned the data using Power Query
+3. Transformed the data for analysis
+4. Created calculated measures and KPIs
+5. Designed interactive Power BI visualizations
+6. Added filters and slicers
 7. Analyzed sales and customer behavior
 8. Created the final dashboard
-## 🎥 Dashboard Demo
-The complete Power BI dashboard video is available in this repository.
-File: HR Analysis Dashboard.mp4
-## 📊 Dataset
-The dataset used for this project is available in the repository.
-File: HR Analytics.csv
-## 📁 Project Structure
-Shopify-Sales-Customer-Funnel-PowerBI
-|
-|-- README.md
-|-- HR Analytics.csv
-|-- HR Analysis Dashboard.mp4
-|-- Shopify_Analysis.png
-|-- Shopify_Details.png
-## 💡 Skills Demonstrated
+## 💡 Key Insights
+The dashboard helps understand:
+- Overall sales performance
+- Customer purchasing patterns
+- Repeat customer behavior
+- Product performance
+- Payment method usage
+- Sales distribution across locations
+- Quantity trends over time
+- Detailed order information
+## 📁 Project Files
+- Power BI Dashboard
+- Shopify Dataset
+- Dashboard Screenshots
+- Project Documentation
+-## 📷 Dashboard Preview
+The dashboard screenshots are available in the repository files.
+- Shopify Sales Analysis
+- Shopify Details
+## 🎓 Skills Demonstrated
+- Power BI
+- Power Query
 - Data Cleaning
 - Data Transformation
 - Data Analysis
-- Power BI
-- Power Query
-- KPI Creation
 - Data Visualization
+- KPI Development
 - Business Intelligence
+- Customer Analytics
 ## 👩‍💻 Author
-Dnyaneshwari Shitole
+**Dnyaneshwari Shitole**
 Aspiring Data Analyst
-Skills: Excel | SQL | Python | Power BI | Power Query
+**Skills:** Excel | SQL | Python | Power BI | Power Query
